@@ -1,0 +1,2 @@
+# Preethika
+hotel management
